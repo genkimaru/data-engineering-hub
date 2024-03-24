@@ -1,62 +1,77 @@
 ---
-title: Welcome to the data engineering hub
-geekdocNav: false
-geekdocAlign: center
+title: Data Engineering Hub
+geekdocNav: true
+geekdocAlign: left
 geekdocAnchor: false
+geekdocCollapseSection: true
+weight: 0
 ---
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable MD033 -->
 
-<span class="badge-placeholder">[![Build Status](https://ci.thegeeklab.de/api/badges/thegeeklab/hugo-geekdoc/status.svg)](https://ci.thegeeklab.de/repos/thegeeklab/hugo-geekdoc)</span>
-<span class="badge-placeholder">[![Hugo Version](https://img.shields.io/badge/hugo-0.112-blue.svg)](https://gohugo.io)</span>
-<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/releases/latest)</span>
-<span class="badge-placeholder">[![GitHub contributors](https://img.shields.io/github/contributors/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/graphs/contributors)</span>
-<span class="badge-placeholder">[![License: MIT](https://img.shields.io/github/license/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/blob/main/LICENSE)</span>
 
-<!-- markdownlint-restore -->
+***Welcome!***
+ Here is the Home for all the data engineers who are willing to learn and share, you can also contribute your knowledge through the GitHub
+⭐ Star our [GitHub](https://github.com/genkimaru/data-engineering-hub) repo and 🗣️ [Share the wiki](https://www.linkedin.com/shareArticle?mini=true&url=https://data-engineering-hub.tech)
 
-Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex projects. If a more feature-complete theme is required there are a lot of got alternatives out there.
 
-{{< button size="large" relref="usage/getting-started/" >}}Getting Started{{< /button >}}
-
-## Feature overview
+### ***Let's get started***
 
 {{< columns >}}
-### Clean and simple design
+### [Databases](./hub/Databases/index.html)
 
 Stay focused on exploring the content and don't get overwhelmed by a complex design.
 
 <--->
 
-### Light and mobile-friendly
+### [Data Ingestion](./hub/Data-Ingestion/index.html)
 
 The theme is powered by less than 1 MB and looks impressive on mobile devices as well as on a regular Desktop.
 
 <--->
 
-### Easy customization
+### [Data Storage](./hub/Data-Storage/index.html)
 
 The look and feel can be easily customized by CSS custom properties (variables), features can be adjusted by Hugo parameters.
 
 {{< /columns >}}
 
 {{< columns >}}
+### [Data Compute](./hub/Data-Compute/index.html)
 
-### Zero initial configuration
-
-Getting started in minutes. The theme is shipped with a default configuration and works out of the box.
-
-<--->
-
-### Handy shortcodes
-
-We included some (hopefully) useful custom shortcodes so you don't have to and can focus on writing amazing docs.
+Stay focused on exploring the content and don't get overwhelmed by a complex design.
 
 <--->
 
-### Dark mode
+### [Data Analytics](./hub/Data-Analytics/index.html)
 
-Powerful dark mode that detects your system preferences or can be controlled by a toggle switch.
+The theme is powered by less than 1 MB and looks impressive on mobile devices as well as on a regular Desktop.
+
+<--->
+
+### [Data Visualization](./hub/Data-Visualization/index.html)
+
+The look and feel can be easily customized by CSS custom properties (variables), features can be adjusted by Hugo parameters.
 
 {{< /columns >}}
+
+{{< columns >}}
+### [Data Governance](./hub/Data-Governance/index.html)
+
+Stay focused on exploring the content and don't get overwhelmed by a complex design.
+
+<--->
+
+### [Data Science](./hub/Data-Science/index.html)
+
+The theme is powered by less than 1 MB and looks impressive on mobile devices as well as on a regular Desktop.
+
+<--->
+
+### [Data on Cloud](./hub/Data-on-Cloud/index.html)
+
+The look and feel can be easily customized by CSS custom properties (variables), features can be adjusted by Hugo parameters.
+
+{{< /columns >}}
+
+
+
