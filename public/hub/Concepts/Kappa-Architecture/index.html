@@ -15,7 +15,7 @@
   <meta name="description" content="Kappa architecture is a big data processing pattern that has historically diverged from [[Lambda Architecture|Lambda]]. Its foundation is to treat all arriving data as a stream, therefore it contains no batch layer by design, relying solely on a [[Stream Data Processing|stream processing]] layer (&ldquo;speed layer&rdquo;).
 %%{init: { &#34;flowchart&#34;: { &#34;useMaxWidth&#34;: true } } }%% graph LR A((Message Broker)) subgraph Speed Layer B(&#34;Stream processing job (n)&#34;) C(&#34;Stream processing job (n&#43;1)&#34;) end A --&gt; B A --&gt; C subgraph Serving Layer D(&#34;Output table (n)&#34;) E(&#34;Output table (n&#43;1)&#34;) end B --&gt; D C --&gt; E Kappa Architecture Advantages Only need to maintain, develop and debug a much smaller codebase compared to Lambda architecture." />
 
-    <title>Kappa Architecture | Geekdocs</title>
+    <title>Kappa Architecture | Data Engineering Hub</title>
 
     <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
 <link
@@ -38,7 +38,7 @@
     property="og:title"
     content="Kappa Architecture"
   />
-  <meta property="og:site_name" content="Geekdocs" />
+  <meta property="og:site_name" content="Data Engineering Hub" />
   <meta property="og:image" content="http://localhost:1313/socialmedia2.png" />
   <meta property="og:description" content="Kappa architecture is a big data processing pattern that has historically diverged from [[Lambda Architecture|Lambda]]. Its foundation is to treat all arriving data as a stream, therefore it contains no batch layer by design, relying solely on a [[Stream Data Processing|stream processing]] layer (“speed layer”).
 %%{init: { &#34;flowchart&#34;: { &#34;useMaxWidth&#34;: true } } }%% graph LR A((Message Broker)) subgraph Speed Layer B(&#34;Stream processing job (n)&#34;) C(&#34;Stream processing job (n&#43;1)&#34;) end A --&gt; B A --&gt; C subgraph Serving Layer D(&#34;Output table (n)&#34;) E(&#34;Output table (n&#43;1)&#34;) end B --&gt; D C --&gt; E Kappa Architecture Advantages Only need to maintain, develop and debug a much smaller codebase compared to Lambda architecture." />
@@ -70,20 +70,21 @@
       "description": "Kappa architecture is a big data processing pattern that has historically diverged from [[Lambda Architecture|Lambda]]. Its foundation is to treat all arriving data as a stream, therefore it contains no batch layer by design, relying solely on a [[Stream Data Processing|stream processing]] layer (“speed layer”).\n%%{init: { \u0022flowchart\u0022: { \u0022useMaxWidth\u0022: true } } }%% graph LR A((Message Broker)) subgraph Speed Layer B(\u0022Stream processing job (n)\u0022) C(\u0022Stream processing job (n\u002b1)\u0022) end A --\u003e B A --\u003e C subgraph Serving Layer D(\u0022Output table (n)\u0022) E(\u0022Output table (n\u002b1)\u0022) end B --\u003e D C --\u003e E Kappa Architecture Advantages Only need to maintain, develop and debug a much smaller codebase compared to Lambda architecture.",
       "thumbnailUrl": "http://localhost:1313/socialmedia2.png",
       "wordCount" : "156",
+      "license": "CC BY-SA 4.0",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
       "mainEntityOfPage": {
           "@type": "WebPage",
           "@id": "http://localhost:1313/hub/Concepts/Kappa-Architecture/"
       },
-      "copyrightHolder" : "Geekdocs",
+      "copyrightHolder" : "Data Engineering Hub",
       "copyrightYear" : "0001",
       "dateCreated": "0001-01-01T00:00:00.00Z",
       "datePublished": "0001-01-01T00:00:00.00Z",
       "dateModified": "2024-03-22T23:32:41.00Z",
       "publisher":{
           "@type":"Organization",
-          "name": "Geekdocs",
+          "name": "Data Engineering Hub",
           "url": "http://localhost:1313/",
           "logo": {
               "@type": "ImageObject",
@@ -664,10 +665,10 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
         <span class="flex align-center">
           <img
             class="gdoc-brand__img"
-            src="/brand.svg"
+            src="/logo.png"
             alt=""
           />
-          <span class="gdoc-brand__title">Geekdocs</span>
+          <span class="gdoc-brand__title">Data Engineering Hub</span>
         </span>
       </a>
     </div>
@@ -829,7 +830,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Data Engineering Hub</span>
+                <span class="flex">
+                  <a
+                    href="/hub/_Index/"
+                    class="gdoc-nav__entry"
+                  >
+                    Data Engineering Hub
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -879,7 +887,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Concepts</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Concepts/"
+                    class="gdoc-nav__entry"
+                  >
+                    Concepts
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -919,17 +934,17 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
             <input
               type="checkbox"
               
-                class="gdoc-nav__toggle" id="navtree-a0c29fbb"
+                class="gdoc-nav__toggle" id="navtree-811498ef"
                 
               
             />
             <label
               
-                for="navtree-a0c29fbb" class="flex justify-between align-center"
+                for="navtree-811498ef" class="flex justify-between align-center"
               
             >
               
-                <span class="flex">Basic</span>
+                <span class="flex">programming languages</span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -978,51 +993,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Concepts/language/Python/"
-                    class="gdoc-nav__entry"
-                  >
-                    Python
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/language/SQL/"
+                    href="/hub/Concepts/languages/SQL/"
                     class="gdoc-nav__entry"
                   >
                     SQL
@@ -1066,7 +1037,51 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Concepts/language/Java/"
+                    href="/hub/Concepts/languages/Python/"
+                    class="gdoc-nav__entry"
+                  >
+                    Python
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Concepts/languages/Java/"
                     class="gdoc-nav__entry"
                   >
                     Java
@@ -1110,7 +1125,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Concepts/language/Scala/"
+                    href="/hub/Concepts/languages/Scala/"
                     class="gdoc-nav__entry"
                   >
                     Scala
@@ -1126,50 +1141,6 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
       
     
   </ul>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/Data-Mart/"
-                    class="gdoc-nav__entry"
-                  >
-                    Data Mart
-                  </a>
-                </span>
-              
-              
-            </label>
 
             
           </li>
@@ -1253,50 +1224,6 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
                     class="gdoc-nav__entry"
                   >
                     Correlated Subquery
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/Relational-Database-Management-System/"
-                    class="gdoc-nav__entry"
-                  >
-                    Relational Database Management System
                   </a>
                 </span>
               
@@ -1733,54 +1660,10 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Concepts/Fan-out/"
+                    href="/hub/Concepts/concepts/Fan-out/"
                     class="gdoc-nav__entry"
                   >
                     Fan-out
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/Key-Value-Database/"
-                    class="gdoc-nav__entry"
-                  >
-                    Key-Value Database
                   </a>
                 </span>
               
@@ -1825,50 +1708,6 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
                     class="gdoc-nav__entry"
                   >
                     Table Locking
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/Timeseries-Database/"
-                    class="gdoc-nav__entry"
-                  >
-                    Timeseries Database
                   </a>
                 </span>
               
@@ -2041,7 +1880,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Concepts/Change-Data-Capture/"
+                    href="/hub/Concepts/concepts/Change-Data-Capture/"
                     class="gdoc-nav__entry"
                   >
                     Change Data Capture
@@ -2305,98 +2144,10 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Concepts/Relational-Modeling/"
-                    class="gdoc-nav__entry"
-                  >
-                    Relational Modeling
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/Indexing/"
+                    href="/hub/Concepts/concepts/Indexing/"
                     class="gdoc-nav__entry"
                   >
                     Indexing
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/Graph-Database/"
-                    class="gdoc-nav__entry"
-                  >
-                    Graph Database
                   </a>
                 </span>
               
@@ -2481,138 +2232,6 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Concepts/Data-Modeling/"
-                    class="gdoc-nav__entry"
-                  >
-                    Data Modeling
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/Column-oriented-Database/"
-                    class="gdoc-nav__entry"
-                  >
-                    Column-oriented Database
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/Document-Database/"
-                    class="gdoc-nav__entry"
-                  >
-                    Document Database
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
                     href="/hub/Concepts/Window-Function/"
                     class="gdoc-nav__entry"
                   >
@@ -2657,51 +2276,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Concepts/Data-Warehouse/"
-                    class="gdoc-nav__entry"
-                  >
-                    Data Warehouse
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/CAP-Theorem/"
+                    href="/hub/Concepts/concepts/CAP-Theorem/"
                     class="gdoc-nav__entry"
                   >
                     CAP Theorem
@@ -2877,142 +2452,10 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Concepts/Data-Lake/"
+                    href="/hub/Concepts/concepts/Data-Lake/"
                     class="gdoc-nav__entry"
                   >
                     Data Lake
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/Relational-Database/"
-                    class="gdoc-nav__entry"
-                  >
-                    Relational Database
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/Online-Analytical-Processing/"
-                    class="gdoc-nav__entry"
-                  >
-                    Online Analytical Processing
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/In-Memory-Database/"
-                    class="gdoc-nav__entry"
-                  >
-                    In-Memory Database
                   </a>
                 </span>
               
@@ -3449,7 +2892,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Concepts/Full-Load/"
+                    href="/hub/Concepts/concepts/Full-Load/"
                     class="gdoc-nav__entry"
                   >
                     Full Load
@@ -3508,50 +2951,6 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
         
       
     
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Concepts/Online-Transaction-Processing/"
-                    class="gdoc-nav__entry"
-                  >
-                    Online Transaction Processing
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
   </ul>
 
             
@@ -3581,7 +2980,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Data Analytics</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Data-Analytics/"
+                    class="gdoc-nav__entry"
+                  >
+                    Data Analytics
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -3938,7 +3344,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Data Compute</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Data-Compute/"
+                    class="gdoc-nav__entry"
+                  >
+                    Data Compute
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -4207,7 +3620,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Data Governance</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Data-Governance/"
+                    class="gdoc-nav__entry"
+                  >
+                    Data Governance
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -4841,7 +4261,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Data Ingestion</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Data-Ingestion/"
+                    class="gdoc-nav__entry"
+                  >
+                    Data Ingestion
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -5242,7 +4669,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Data on Cloud</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Data-on-Cloud/"
+                    class="gdoc-nav__entry"
+                  >
+                    Data on Cloud
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -5875,7 +5309,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Data Process</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Data-Process/"
+                    class="gdoc-nav__entry"
+                  >
+                    Data Process
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -6185,7 +5626,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Data Science</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Data-Science/"
+                    class="gdoc-nav__entry"
+                  >
+                    Data Science
+                  </a>
+                </span>
               
               
             </label>
@@ -6217,7 +5665,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Data Stroage</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Data-Storage/"
+                    class="gdoc-nav__entry"
+                  >
+                    Data Stroage
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -6351,7 +5806,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Data Visualization</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Data-Visualization/"
+                    class="gdoc-nav__entry"
+                  >
+                    Data Visualization
+                  </a>
+                </span>
               
               
             </label>
@@ -6373,17 +5835,24 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
             <input
               type="checkbox"
               
-                class="gdoc-nav__toggle" id="navtree-5bae13ea"
+                class="gdoc-nav__toggle" id="navtree-875d8e4b"
                 
               
             />
             <label
               
-                for="navtree-5bae13ea" class="flex justify-between align-center"
+                for="navtree-875d8e4b" class="flex justify-between align-center"
               
             >
               
-                <span class="flex">Databases</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Data-Warehouse/"
+                    class="gdoc-nav__entry"
+                  >
+                    Data Warehouse
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -6432,10 +5901,10 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Databases/Amazon-Aurora/"
+                    href="/hub/Data-Warehouse/Data-Mart/"
                     class="gdoc-nav__entry"
                   >
-                    Amazon Aurora
+                    Data Mart
                   </a>
                 </span>
               
@@ -6446,6 +5915,112 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
           </li>
         
       
+    
+  </ul>
+
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="gdoc-nav__toggle" id="navtree-5bae13ea"
+                
+              
+            />
+            <label
+              
+                for="navtree-5bae13ea" class="flex justify-between align-center"
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/"
+                    class="gdoc-nav__entry"
+                  >
+                    Databases
+                  </a>
+                </span>
+              
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
+              
+            </label>
+
+            
+              
+  
+
+
+  <ul class="gdoc-nav__list">
+    
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="gdoc-nav__toggle" id="navtree-25d247bb"
+                
+              
+            />
+            <label
+              
+                for="navtree-25d247bb" class="flex justify-between align-center"
+              
+            >
+              
+                <span class="flex">column database</span>
+              
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
+              
+            </label>
+
+            
+              
+  
+
+
+  <ul class="gdoc-nav__list">
+    
     
       
 
@@ -6476,95 +6051,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Databases/Azure-Synapse-Analytics/"
-                    class="gdoc-nav__entry"
-                  >
-                    Azure Synapse Analytics
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Databases/Snowflake/"
-                    class="gdoc-nav__entry"
-                  >
-                    Snowflake
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Databases/Couchbase/"
+                    href="/hub/Databases/column-database/Couchbase/"
                     class="gdoc-nav__entry"
                   >
                     Couchbase
@@ -6608,10 +6095,10 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Databases/YugabyteDB/"
+                    href="/hub/Databases/column-database/Column-oriented-Database/"
                     class="gdoc-nav__entry"
                   >
-                    YugabyteDB
+                    Column-oriented Database
                   </a>
                 </span>
               
@@ -6622,6 +6109,55 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
           </li>
         
       
+    
+  </ul>
+
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="gdoc-nav__toggle" id="navtree-ab27c8de"
+                
+              
+            />
+            <label
+              
+                for="navtree-ab27c8de" class="flex justify-between align-center"
+              
+            >
+              
+                <span class="flex">document database</span>
+              
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
+              
+            </label>
+
+            
+              
+  
+
+
+  <ul class="gdoc-nav__list">
+    
     
       
 
@@ -6652,95 +6188,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Databases/Amazon-Redshift/"
-                    class="gdoc-nav__entry"
-                  >
-                    Amazon Redshift
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Databases/Redis/"
-                    class="gdoc-nav__entry"
-                  >
-                    Redis
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Databases/Amazon-DocumentDB/"
+                    href="/hub/Databases/document-database/Amazon-DocumentDB/"
                     class="gdoc-nav__entry"
                   >
                     Amazon DocumentDB
@@ -6784,315 +6232,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Databases/Rockset/"
-                    class="gdoc-nav__entry"
-                  >
-                    Rockset
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Databases/SingleStore/"
-                    class="gdoc-nav__entry"
-                  >
-                    SingleStore
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Databases/ClickHouse/"
-                    class="gdoc-nav__entry"
-                  >
-                    ClickHouse
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Databases/Google-BigQuery/"
-                    class="gdoc-nav__entry"
-                  >
-                    Google BigQuery
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Databases/Amazon-RDS/"
-                    class="gdoc-nav__entry"
-                  >
-                    Amazon RDS
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Databases/DuckDB/"
-                    class="gdoc-nav__entry"
-                  >
-                    DuckDB
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Databases/MySQL/"
-                    class="gdoc-nav__entry"
-                  >
-                    MySQL
-                  </a>
-                </span>
-              
-              
-            </label>
-
-            
-          </li>
-        
-      
-    
-      
-
-      
-        
-      
-
-      
-        
-          
-          
-          
-          
-          
-          
-
-
-          <li>
-            <input
-              type="checkbox"
-              
-                class="hidden"
-              
-            />
-            <label
-              
-            >
-              
-                <span class="flex">
-                  <a
-                    href="/hub/Databases/MongoDB/"
+                    href="/hub/Databases/document-database/MongoDB/"
                     class="gdoc-nav__entry"
                   >
                     MongoDB
@@ -7136,10 +6276,10 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Databases/RavenDB/"
+                    href="/hub/Databases/document-database/Amazon-DynamoDB/"
                     class="gdoc-nav__entry"
                   >
-                    RavenDB
+                    Amazon DynamoDB
                   </a>
                 </span>
               
@@ -7180,7 +6320,325 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Databases/PostgreSQL/"
+                    href="/hub/Databases/document-database/Document-Database/"
+                    class="gdoc-nav__entry"
+                  >
+                    Document Database
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+  </ul>
+
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="gdoc-nav__toggle" id="navtree-33d387b6"
+                
+              
+            />
+            <label
+              
+                for="navtree-33d387b6" class="flex justify-between align-center"
+              
+            >
+              
+                <span class="flex">graph database</span>
+              
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
+              
+            </label>
+
+            
+              
+  
+
+
+  <ul class="gdoc-nav__list">
+    
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/graph-database/Graph-Database/"
+                    class="gdoc-nav__entry"
+                  >
+                    Graph Database
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+  </ul>
+
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="gdoc-nav__toggle" id="navtree-5ba171b7"
+                
+              
+            />
+            <label
+              
+                for="navtree-5ba171b7" class="flex justify-between align-center"
+              
+            >
+              
+                <span class="flex">relational database</span>
+              
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
+              
+            </label>
+
+            
+              
+  
+
+
+  <ul class="gdoc-nav__list">
+    
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/relational-database/Amazon-Aurora/"
+                    class="gdoc-nav__entry"
+                  >
+                    Amazon Aurora
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/relational-database/Amazon-RDS/"
+                    class="gdoc-nav__entry"
+                  >
+                    Amazon RDS
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/relational-database/MySQL/"
+                    class="gdoc-nav__entry"
+                  >
+                    MySQL
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/relational-database/PostgreSQL/"
                     class="gdoc-nav__entry"
                   >
                     PostgreSQL
@@ -7224,7 +6682,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Databases/Microsoft-SQL-Server/"
+                    href="/hub/Databases/relational-database/Microsoft-SQL-Server/"
                     class="gdoc-nav__entry"
                   >
                     Microsoft SQL Server
@@ -7268,15 +6726,573 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
                 <span class="flex">
                   <a
-                    href="/hub/Databases/Amazon-DynamoDB/"
+                    href="/hub/Databases/relational-database/Relational-Database-Management-System/"
                     class="gdoc-nav__entry"
                   >
-                    Amazon DynamoDB
+                    Relational Database Management System
                   </a>
                 </span>
               
               
             </label>
+
+            
+          </li>
+        
+      
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/relational-database/Relational-Database/"
+                    class="gdoc-nav__entry"
+                  >
+                    Relational Database
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+  </ul>
+
+            
+          </li>
+        
+      
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="gdoc-nav__toggle" id="navtree-03544abb"
+                
+              
+            />
+            <label
+              
+                for="navtree-03544abb" class="flex justify-between align-center"
+              
+            >
+              
+                <span class="flex">key-value database</span>
+              
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
+              
+            </label>
+
+            
+              
+  
+
+
+  <ul class="gdoc-nav__list">
+    
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/k-v-database/Redis/"
+                    class="gdoc-nav__entry"
+                  >
+                    Redis
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/k-v-database/Key-Value-Database/"
+                    class="gdoc-nav__entry"
+                  >
+                    Key-Value Database
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/k-v-database/In-Memory-Database/"
+                    class="gdoc-nav__entry"
+                  >
+                    In-Memory Database
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+  </ul>
+
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="gdoc-nav__toggle" id="navtree-d7407065"
+                
+              
+            />
+            <label
+              
+                for="navtree-d7407065" class="flex justify-between align-center"
+              
+            >
+              
+                <span class="flex">OLAP database</span>
+              
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
+              
+            </label>
+
+            
+              
+  
+
+
+  <ul class="gdoc-nav__list">
+    
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/OLAP-database/Azure-Synapse-Analytics/"
+                    class="gdoc-nav__entry"
+                  >
+                    Azure Synapse Analytics
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/OLAP-database/Amazon-Redshift/"
+                    class="gdoc-nav__entry"
+                  >
+                    Amazon Redshift
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/OLAP-database/Google-BigQuery/"
+                    class="gdoc-nav__entry"
+                  >
+                    Google BigQuery
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+  </ul>
+
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="gdoc-nav__toggle" id="navtree-babc1445"
+                
+              
+            />
+            <label
+              
+                for="navtree-babc1445" class="flex justify-between align-center"
+              
+            >
+              
+                <span class="flex">others</span>
+              
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
+              
+            </label>
+
+            
+              
+  
+
+
+  <ul class="gdoc-nav__list">
+    
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/others/ClickHouse/"
+                    class="gdoc-nav__entry"
+                  >
+                    ClickHouse
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+      
+
+      
+        
+      
+
+      
+        
+          
+          
+          
+          
+          
+          
+
+
+          <li>
+            <input
+              type="checkbox"
+              
+                class="hidden"
+              
+            />
+            <label
+              
+            >
+              
+                <span class="flex">
+                  <a
+                    href="/hub/Databases/others/Timeseries-Database/"
+                    class="gdoc-nav__entry"
+                  >
+                    Timeseries Database
+                  </a>
+                </span>
+              
+              
+            </label>
+
+            
+          </li>
+        
+      
+    
+  </ul>
 
             
           </li>
@@ -7312,7 +7328,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">File Formats</span>
+                <span class="flex">
+                  <a
+                    href="/hub/File-Formats/"
+                    class="gdoc-nav__entry"
+                  >
+                    File Formats
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -7581,7 +7604,14 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
               
             >
               
-                <span class="flex">Templates</span>
+                <span class="flex">
+                  <a
+                    href="/hub/Templates/"
+                    class="gdoc-nav__entry"
+                  >
+                    Templates
+                  </a>
+                </span>
               
               
                 <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
@@ -8577,15 +8607,25 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
             <input
               type="checkbox"
               
-                class="hidden"
+                class="gdoc-nav__toggle" id="navtree-9cdd4c1e"
+                
               
             />
             <label
+              
+                for="navtree-9cdd4c1e" class="flex justify-between align-center"
               
             >
               
                 <span class="flex">Usage</span>
               
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
               
             </label>
 
@@ -8756,15 +8796,25 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
             <input
               type="checkbox"
               
-                class="hidden"
+                class="gdoc-nav__toggle" id="navtree-029e97e0"
+                
               
             />
             <label
+              
+                for="navtree-029e97e0" class="flex justify-between align-center"
               
             >
               
                 <span class="flex">Features</span>
               
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
               
             </label>
 
@@ -8991,15 +9041,25 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
             <input
               type="checkbox"
               
-                class="hidden"
+                class="gdoc-nav__toggle" id="navtree-e3cd270a"
+                
               
             />
             <label
+              
+                for="navtree-e3cd270a" class="flex justify-between align-center"
               
             >
               
                 <span class="flex">Shortcodes</span>
               
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
               
             </label>
 
@@ -9681,10 +9741,13 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
             <input
               type="checkbox"
               
-                class="hidden"
+                class="gdoc-nav__toggle" id="navtree-95649a05"
+                
               
             />
             <label
+              
+                for="navtree-95649a05" class="flex justify-between align-center"
               
             >
               
@@ -9697,6 +9760,13 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
                   </a>
                 </span>
               
+              
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_left">
+                  <use xlink:href="#gdoc_keyboard_arrow_left"></use>
+                </svg>
+                <svg class="gdoc-icon toggle gdoc_keyboard_arrow_down">
+                  <use xlink:href="#gdoc_keyboard_arrow_down"></use>
+                </svg>
               
             </label>
 
@@ -10188,7 +10258,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
   
     justify-between
   
-  
+  hidden-mobile
   "
   itemprop="breadcrumb"
 >
@@ -10232,17 +10302,6 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
       </ol>
     </div>
   
-  
-    <div>
-      <span class="editpage">
-        <svg class="gdoc-icon gdoc_code"><use xlink:href="#gdoc_code"></use></svg>
-        <a
-          href="https://github.com/genkimaru/genkimaru.github.io/edit/main/content/en/hub/Concepts/Kappa%20Architecture.md"
-        >
-          Edit page
-        </a>
-      </span>
-    </div>
   
 </div>
 
@@ -10386,6 +10445,43 @@ C --&gt; E</pre>
         
 
         
+          
+        
+
+        
+        
+          
+  
+  
+
+  
+  
+    
+
+    
+      
+    
+
+    
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+          
+        
 
         
         
@@ -10427,177 +10523,6 @@ C --&gt; E</pre>
   
 
   
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-
-        
-        
-          
-  
-  
-
-  
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-
-        
-      
-    
-
   
     
 
@@ -10731,298 +10656,7 @@ C --&gt; E</pre>
     
 
   
-    
 
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
-        
-      
-    
-
-  
-    
-
-    
-      
-    
-
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-          
-        
-
-        
         
       
     
@@ -12389,13 +12023,10 @@ C --&gt; E</pre>
     
 
   
-    
 
-    
+        
       
     
-
-    
       
       
 
@@ -12414,38 +12045,10 @@ C --&gt; E</pre>
 
         
           
-        
-
-        
-        
-      
-    
-
-  
-
-        
-      
-    
-      
-      
-
-      
-        
-        
-        
-        
-
-        
-        
-
-        
-
         
 
         
-
         
-        
           
   
   
@@ -12703,6 +12306,8 @@ C --&gt; E</pre>
 
         
 
+        
+          
         
 
         
@@ -12898,6 +12503,8 @@ C --&gt; E</pre>
 
         
 
+        
+          
         
 
         
@@ -13363,6 +12970,8 @@ C --&gt; E</pre>
 
         
 
+        
+          
         
 
         
@@ -13657,6 +13266,8 @@ C --&gt; E</pre>
 
         
 
+        
+          
         
 
         
@@ -14123,6 +13734,8 @@ C --&gt; E</pre>
         
 
         
+          
+        
 
         
         
@@ -14350,6 +13963,8 @@ C --&gt; E</pre>
 
         
 
+        
+          
         
 
         
@@ -14372,6 +13987,8 @@ C --&gt; E</pre>
 
         
 
+        
+          
         
 
         
@@ -14381,13 +13998,76 @@ C --&gt; E</pre>
   
 
   
+  
+    
+
+    
+      
+    
+
+    
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+        
+      
+    
+
   
+    
+
+    
+      
     
 
     
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+        
       
     
 
+  
+
+        
+      
     
       
       
@@ -14413,14 +14093,70 @@ C --&gt; E</pre>
         
       
     
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+          
+        
 
+        
+        
+          
+  
+  
+
   
+  
+    
+
     
+      
+    
 
     
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+          
+        
+
+        
+        
       
     
+
+  
 
+        
+      
     
       
       
@@ -14444,14 +14180,85 @@ C --&gt; E</pre>
 
         
         
+          
+  
+  
+
+  
+  
+    
+
+    
       
+    
+
     
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
 
+        
+        
+          
+  
+  
+
   
+  
+    
+
+    
+      
+    
+
+    
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
 
         
+
+        
+
+        
+          
+        
+
+        
+        
+      
+    
+
+  
+    
+
+    
       
     
+
+    
       
       
 
@@ -14468,9 +14275,17 @@ C --&gt; E</pre>
 
         
 
+        
+          
         
 
         
+        
+      
+    
+
+  
+
         
       
     
@@ -14630,8 +14445,38 @@ C --&gt; E</pre>
         
       
     
+
+  
+
+        
+      
+    
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+
+        
+        
+          
+  
+  
 
   
+  
     
 
     
@@ -14660,11 +14505,41 @@ C --&gt; E</pre>
         
 
         
+        
+      
+    
+
+  
+
         
       
     
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+
+        
+        
+          
+  
+  
 
   
+  
     
 
     
@@ -14890,12 +14765,51 @@ C --&gt; E</pre>
           
         
 
+        
         
+      
+    
+
+  
+
         
+      
+    
+
+  
+    
+
+    
       
+    
+
     
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+
+        
+        
+          
+  
+  
 
   
+  
     
 
     
@@ -14989,12 +14903,42 @@ C --&gt; E</pre>
           
         
 
+        
         
+      
+    
+
+  
+
         
       
     
+      
+      
+
+      
+        
+        
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+
+        
+        
+          
+  
+  
 
   
+  
     
 
     
@@ -15088,12 +15032,42 @@ C --&gt; E</pre>
           
         
 
+        
         
+      
+    
+
+  
+
         
       
     
+      
+      
+
+      
+        
+        
+        
+        
 
+        
+        
+
+        
+
+        
+
+        
+
+        
+        
+          
+  
   
+
+  
+  
     
 
     
@@ -15155,6 +15129,12 @@ C --&gt; E</pre>
         
 
         
+        
+      
+    
+
+  
+
         
       
     
@@ -15181,6 +15161,8 @@ C --&gt; E</pre>
         
 
         
+          
+        
 
         
         
@@ -15375,6 +15357,8 @@ C --&gt; E</pre>
 
         
 
+        
+          
         
 
         
@@ -17112,11 +17096,11 @@ C --&gt; E</pre>
   
     <a
       class="gdoc-page__nav--prev flex align-center"
-      href="/hub/Concepts/In-Memory-Database/"
-      title="In-Memory Database"
+      href="/hub/Concepts/concepts/Data-Lake/"
+      title="Data Lake"
     >
       <i class="gdoc-icon">gdoc_arrow_left_alt</i>
-      In-Memory Database
+      Data Lake
     </a>
   
 </span>
@@ -17148,20 +17132,16 @@ C --&gt; E</pre>
 
         </span>
         
-          <span class="gdoc-footer__item gdoc-footer__item--row">
-            <a href="https://thegeeklab.de/legal-notice/#contact-information" class="gdoc-footer__link">
-              Legal Notice
-            </a>
-          </span>
-        
-        
-          <span class="gdoc-footer__item gdoc-footer__item--row">
-            <a href="https://thegeeklab.de/legal-notice/#privacy-policy" class="gdoc-footer__link">
-              Privacy Policy
-            </a>
-          </span>
         
       </section>
+      
+        <section class="flex flex-wrap align-center">
+          <span class="gdoc-footer__item">
+            Content licensed under
+
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="gdoc-footer__link no-wrap">CC BY-SA 4.0</a>
+          </span>
+        </section>
       
     </div>
     

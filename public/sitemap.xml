@@ -3,537 +3,556 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/geekdoc/usage/getting-started/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/usage/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/features/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/usage/configuration/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hub/Databases/relational-database/</loc>
   </url><url>
     <loc>http://localhost:1313/geekdoc/</loc>
-    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hub/Basic/languages/SQL/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hub/Basic/languages/Python/</loc>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/Choosing-your-optimal-messaging-service/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hub/Basic/languages/Java/</loc>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/Cost-Optimization-in-the-Cloud/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hub/Basic/languages/Scala/</loc>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/SQL-Guide/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/Testing-Your-Data-Pipeline/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/Guides/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/Data-Governance-Guide/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/Getting-Started-With-Data-Engineering/</loc>
-  </url><url>
-    <loc>http://localhost:1313/geekdoc/posts/</loc>
-    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/Data-Pipeline-Best-Practices/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/geekdoc/posts/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/AWS/AWS-dynanoDB/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/Tutorials/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/Apache-Spark-RDD-example/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/dbt-CLI-autocomplete-in-Docker/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/AWS/Amazon-MSK/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/AWS/Google-Cloud-Platform/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/AWS/Microsoft-Azure/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/Tools/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/AWS/Benthos/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/AWS/Amazon-Web-Services/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/data-quality/Soda/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/data-quality/Great-Expectations/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/data-quality/Monte-Carlo/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/data-quality/Deequ/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hub/File-Formats/JSON/</loc>
+    <loc>http://localhost:1313/hub/Basic/formats/JSON/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/File-Formats/CSV/</loc>
+    <loc>http://localhost:1313/hub/Basic/formats/CSV/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/File-Formats/Parquet/</loc>
+    <loc>http://localhost:1313/hub/Basic/formats/Parquet/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/File-Formats/Delta-Lake/</loc>
+    <loc>http://localhost:1313/hub/Basic/formats/Delta-Lake/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/File-Formats/Protocol-Buffers/</loc>
+    <loc>http://localhost:1313/hub/Basic/formats/Protocol-Buffers/</loc>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Ingestion/dlt/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Ingestion/Stitch-Data/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Ingestion/Amazon-DMS/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Ingestion/Matillion-Data-Loader/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Ingestion/Airbyte/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Ingestion/Debezium/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Ingestion/Fivetran/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Ingestion/Meltano/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Analytics/Propel/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Analytics/Metricflow/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Analytics/Lightdash/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Analytics/Power-BI/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Analytics/Metriql/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Analytics/Apache-Superset/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Analytics/Cube.js/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Compute/AWS-Batch/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Compute/AWS-Fargate/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Compute/Amazon-ECS/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Compute/AWS-Lambda/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Compute/Amazon-EC2/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Workflow/Azure-Data-Factory/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Workflow/Mage/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Workflow/Dagster/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Workflow/Prefect/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Workflow/AWS-Step-Functions/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Workflow/Apache-Airflow/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Workflow/Amazon-MWAA/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Storage/Amazon-S3-Glacier/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Storage/Amazon-S3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/language/Python/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/language/SQL/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/language/Java/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/language/Scala/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hub/Data-Process/dbt/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Process/Apache-Hadoop/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Process/Apache-Spark/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Process/AWS-Glue/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Process/Amazon-EMR/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Process/Databricks/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Amazon-Aurora/</loc>
+    <loc>http://localhost:1313/hub/Databases/relational-database/Amazon-Aurora/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Azure-Synapse-Analytics/</loc>
+    <loc>http://localhost:1313/hub/Databases/OLAP-database/Azure-Synapse-Analytics/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Snowflake/</loc>
+    <loc>http://localhost:1313/hub/Databases/column-database/Couchbase/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Couchbase/</loc>
+    <loc>http://localhost:1313/hub/Databases/k-v-database/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/YugabyteDB/</loc>
+    <loc>http://localhost:1313/hub/Databases/OLAP-database/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Amazon-Redshift/</loc>
+    <loc>http://localhost:1313/hub/Databases/others/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Redis/</loc>
+    <loc>http://localhost:1313/hub/Databases/OLAP-database/Amazon-Redshift/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Amazon-DocumentDB/</loc>
+    <loc>http://localhost:1313/hub/Databases/k-v-database/Redis/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Rockset/</loc>
+    <loc>http://localhost:1313/hub/Databases/document-database/Amazon-DocumentDB/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/SingleStore/</loc>
+    <loc>http://localhost:1313/hub/Databases/others/ClickHouse/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/ClickHouse/</loc>
+    <loc>http://localhost:1313/hub/Databases/OLAP-database/Google-BigQuery/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Google-BigQuery/</loc>
+    <loc>http://localhost:1313/hub/Databases/relational-database/Amazon-RDS/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Amazon-RDS/</loc>
+    <loc>http://localhost:1313/hub/Databases/relational-database/MySQL/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/DuckDB/</loc>
+    <loc>http://localhost:1313/hub/Databases/document-database/MongoDB/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/MySQL/</loc>
+    <loc>http://localhost:1313/hub/Databases/relational-database/PostgreSQL/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/MongoDB/</loc>
+    <loc>http://localhost:1313/hub/Databases/relational-database/Microsoft-SQL-Server/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/RavenDB/</loc>
+    <loc>http://localhost:1313/hub/Databases/document-database/Amazon-DynamoDB/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/PostgreSQL/</loc>
+    <loc>http://localhost:1313/hub/Data-Warehouse/Data-Mart/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Microsoft-SQL-Server/</loc>
+    <loc>http://localhost:1313/hub/Basic/architecture/Activity-Schema/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Databases/Amazon-DynamoDB/</loc>
+    <loc>http://localhost:1313/hub/Databases/relational-database/Relational-Database-Management-System/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Mart/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Data-Mesh/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Activity-Schema/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Data-Governance/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Correlated-Subquery/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Hybrid-Transactional-Analytical-Processing/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Relational-Database-Management-System/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Data-Catalog/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Sargable-Expressions/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Database-Sharding/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Mesh/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/One-Big-Table/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Governance/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Workflow-Orchestration/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Hybrid-Transactional-Analytical-Processing/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Data-Vault-Modeling/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Catalog/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/architecture/Fan-out/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Database-Sharding/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Databases/k-v-database/Key-Value-Database/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/One-Big-Table/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Table-Locking/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Workflow-Orchestration/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Databases/others/Timeseries-Database/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Vault-Modeling/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/architecture/Claim-Check-Pattern/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Fan-out/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Vertical-Scaling/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Key-Value-Database/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Change-Data-Capture/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Table-Locking/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Data-Process/Batch-Data-Processing/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Timeseries-Database/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Normalization/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Claim-Check-Pattern/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Data-Unit-Test/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Vertical-Scaling/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Data-Process/Stream-Data-Processing/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Engineering/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/architecture/Lambda-Architecture/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Change-Data-Capture/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Data-Warehouse/Relational-Modeling/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Batch-Data-Processing/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Indexing/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Normalization/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Databases/graph-database/Graph-Database/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Unit-Test/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Data-Warehouse/Dimensional-Modeling/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Stream-Data-Processing/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Data-Warehouse/Data-Modeling/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Lambda-Architecture/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Databases/column-database/Column-oriented-Database/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Relational-Modeling/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Databases/document-database/Document-Database/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Indexing/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Window-Function/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Graph-Database/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Data-Warehouse/Data-Warehouse/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Dimensional-Modeling/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/CAP-Theorem/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Modeling/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/architecture/Metrics-Layer/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Column-oriented-Database/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Data-Pipeline/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Document-Database/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/architecture/Semantic-Layer/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Window-Function/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Data-Lake/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Warehouse/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Databases/relational-database/Relational-Database/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/CAP-Theorem/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Data-Warehouse/Online-Analytical-Processing/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Metrics-Layer/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Databases/k-v-database/In-Memory-Database/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Pipeline/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/architecture/Kappa-Architecture/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Semantic-Layer/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Idempotence/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Lake/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/architecture/Medallion-Architecture/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Relational-Database/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Denormalization/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Online-Analytical-Processing/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/architecture/Data-Architecture/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/In-Memory-Database/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Non-relational-Database/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Kappa-Architecture/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Horizontal-Scaling/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Idempotence/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Data-Warehouse/Delta-Load/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Medallion-Architecture/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/Full-Load/</loc>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Denormalization/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Architecture/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Non-relational-Database/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Data-Ethics/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Horizontal-Scaling/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Delta-Load/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Full-Load/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Concepts/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Concepts/Online-Transaction-Processing/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Tool-Template-Open-Source/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Tool-Template-Data-Quality/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Tool-Template-Data-Analytics/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Tutorial-Template/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Tool-Template-Data-Ingestion/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Tool-Template-Data-Stores/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Tool-Template-Data-Processing/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Tool-Template-Database/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Concept-Template/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Tool-Template-Compute/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Tool-Template-Workflow-Orchestrator/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/Tool-Template/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Data-Warehouse/Online-Transaction-Processing/</loc>
   </url><url>
     <loc>http://localhost:1313/geekdoc/posts/initial-release/</loc>
-    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/Documentation/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/posts/hello_geekdoc/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/Updates/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/_includes/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/_includes/include-page/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/collapse/level-1/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/collapse/level-2/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/toc-tree/level-1/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/toc-tree/level-2/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/asciidoc/admonition-icons/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/asciidoc/admonitions/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/Aliyun/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hub/Basic/architecture/</loc>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/AWS/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/Azure/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/language/</loc>
+    <loc>http://localhost:1313/hub/Basic/</loc>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/buttons/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/features/code-blocks/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/collapse/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hub/Databases/column-database/</loc>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/columns/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hub/Concepts/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <loc>http://localhost:1313/hub/Basic/concepts/</loc>
   </url><url>
     <loc>http://localhost:1313/geekdoc/features/dark-mode/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Analytics/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Compute/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/_Index/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Ingestion/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Process/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Governance/data-quality/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Science/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Storage/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Data-Visualization/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hub/Data-Warehouse/</loc>
   </url><url>
     <loc>http://localhost:1313/hub/Databases/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hub/Databases/document-database/</loc>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/expand/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hub/File-Formats/</loc>
+    <loc>http://localhost:1313/hub/Basic/formats/</loc>
   </url><url>
     <loc>http://localhost:1313/hub/Data-on-Cloud/GCP/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hub/Databases/graph-database/</loc>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/hints/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/features/icon-sets/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/icons/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/images/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/includes/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/katex/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hub/Basic/languages/</loc>
   </url><url>
     <loc>http://localhost:1313/geekdoc/collapse/level-1/level-1-1/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/toc-tree/level-1/level-1-1/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/collapse/level-1/level-1-2/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/toc-tree/level-1/level-1-2/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/toc-tree/level-1/level-1-3/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/toc-tree/level-1/level-1-3/level-1-3-1/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/collapse/level-2/level-2-1/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/toc-tree/level-2/level-2-1/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/collapse/level-2/level-2-2/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/toc-tree/level-2/level-2-2/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/usage/menus/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/mermaid/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/features/multilingual/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/progress/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/propertylist/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/tabs/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hub/Templates/</loc>
-    <lastmod>2024-03-22T23:32:41+08:00</lastmod>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/features/theming/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/toc/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/shortcodes/toc-tree/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/geekdoc/toc-tree/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hub/Workflow/</loc>
+    <lastmod>2024-03-24T10:18:22+08:00</lastmod>
   </url>
 </urlset>

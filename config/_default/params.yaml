@@ -9,15 +9,34 @@ images:
 geekdocToC: 3
 geekdocTagsToMenu: true
 
-geekdocRepo: https://github.com/genkimaru/genkimaru.github.io
-geekdocEditPath: edit/main/
+# geekdocRepo: https://github.com/genkimaru/genkimaru.github.io
+# geekdocEditPath: edit/main/
 
 geekdocSearch: true
 geekdocSearchShowParent: true
 geekdocSearchShowDescription: true
 
-geekdocLegalNotice: https://thegeeklab.de/legal-notice/#contact-information
-geekdocPrivacyPolicy: https://thegeeklab.de/legal-notice/#privacy-policy
+# geekdocLegalNotice: https://thegeeklab.de/legal-notice/#contact-information
+# geekdocPrivacyPolicy: https://thegeeklab.de/legal-notice/#privacy-policy
 
 geekdocImageLazyLoading: true
 geekdocDarkModeDim: true
+
+geekdocLogo: "logo.png"
+
+    # (Optional, default false) Collapse all menu entries, can not be overwritten
+    # per page if enabled. Can be enabled per page via 'geekdocCollapseSection'.
+geekdocCollapseAllSections: true
+
+    # (Optional, default none) Set source repository location. Used for 'Edit page' links.
+    # You can also specify this parameter per page in front matter.
+geekdocRepo: "https://github.com/thegeeklab/hugo"
+
+    # (Optional, default true) Display a "Back to top" link in the site footer.
+geekdocBackToTop: true
+
+    # (Optional, default none) Adds a "Content licensed under <license>" line to the footer.
+    # Could be used if you want to define a default license for your content.
+  #  geekdocContentLicense
+  #     name: "CC BY-SA 4.0"
+  #     link: "https://creativecommons.org/licenses/by-sa/4.0/"

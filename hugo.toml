@@ -2,6 +2,27 @@ baseURL = "http://localhost"
 title = "Data Engineering Hub"
 theme = "hugo-geekdoc"
 
+[params]
+    geekdocLogo = "logo.png"
 
-geekdocLogo = "logo.png"
+    # (Optional, default false) Collapse all menu entries, can not be overwritten
+    # per page if enabled. Can be enabled per page via 'geekdocCollapseSection'.
+    geekdocCollapseAllSections = true
 
+    # (Optional, default none) Set source repository location. Used for 'Edit page' links.
+    # You can also specify this parameter per page in front matter.
+    geekdocRepo = "https://github.com/thegeeklab/hugo"
+
+    # (Optional, default true) Display a "Back to top" link in the site footer.
+    geekdocBackToTop = true
+
+    # (Optional, default none) Adds a "Content licensed under <license>" line to the footer.
+    # Could be used if you want to define a default license for your content.
+    [params.geekdocContentLicense]
+    name = "CC BY-SA 4.0"
+    link = "https://creativecommons.org/licenses/by-sa/4.0/"
+
+    # (Optional, default 'title') Configure how to sort file-tree menu entries. Possible options are 'title', 'linktitle',
+    # 'date', 'publishdate', 'expirydate' or 'lastmod'. Every option can be used with a reverse modifier as well
+    # e.g. 'title_reverse'.
+    geekdocFileTreeSortBy = "date"

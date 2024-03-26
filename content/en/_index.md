@@ -10,7 +10,7 @@ weight: 0
 
 
 ***Welcome!***
- Here is the Home for all the data engineers who are willing to learn and share, you can also contribute your knowledge through the GitHub
+ This is good place of learnig data related knowledges for data engineers, for whom are willing to learn and share, you can contribute your knowledges and ideas through the GitHub
 ⭐ Star our [GitHub](https://github.com/genkimaru/data-engineering-hub) repo and 🗣️ [Share the wiki](https://www.linkedin.com/shareArticle?mini=true&url=https://data-engineering-hub.tech)
 
 

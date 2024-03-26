@@ -1,6 +1,6 @@
 ---
 baseURL: https://geekdocs.de/
-title: Geekdocs
+title: Data Engineering Hub
 theme: hugo-geekdoc
 
 pygmentsUseClasses: true
