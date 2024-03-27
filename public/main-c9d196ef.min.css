@@ -2863,6 +2863,10 @@ svg.gdoc-icon {
 .gdoc-nav nav section {
   margin-top: 2rem;
 }
+.gdoc-nav--more  {
+  margin-top: 10rem !important;    
+}
+
 .gdoc-nav__control {
   display: none;
   margin: 0;

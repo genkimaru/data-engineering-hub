@@ -1,6 +1,6 @@
 ---
 header:
   - name: GitHub
-    ref: https://github.com/thegeeklab/hugo-geekdoc
+    ref: https://github.com/genkimaru/data-engineering-hub
     icon: gdoc_github
     external: true

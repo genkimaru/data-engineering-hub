@@ -1,13 +1,14 @@
 ---
 more:
-  - name: News
-    ref: "/posts"
+  - name: Hugo - static site generators
+    ref: "https://gohugo.io/"
+    external: true
     icon: "gdoc_notification"
-  - name: Releases
-    ref: "https://github.com/thegeeklab/hugo-geekdoc/releases"
+  - name: hugo-geekdoc - hugo theme
+    ref: "https://github.com/thegeeklab/hugo-geekdoc"
     external: true
     icon: "gdoc_download"
-  - name: View Source
-    ref: "https://github.com/thegeeklab/hugo-geekdoc"
+  - name: hugo-geekdoc document
+    ref: "https://geekdocs.de/"
     external: true
     icon: "gdoc_github"

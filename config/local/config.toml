@@ -1,3 +1,7 @@
+baseURL = "http://localhost"
+title = "Data Engineering Hub"
+theme = "hugo-geekdoc"
+
 [params]
     geekdocLogo = "logo.png"
 
