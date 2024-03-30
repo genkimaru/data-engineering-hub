@@ -1,5 +1,4 @@
-baseURL = "http://localhost"
-title = "Data Engineering Hub"
+# baseURL = "http://localhost"
 theme = "hugo-geekdoc"
 
 [params]

@@ -1,7 +1,3 @@
-# ---
-# baseURL: "http://localhost"
-# title: "Data Engineering Hub"
-# theme: "hugo-geekdoc"
 
 pygmentsUseClasses: true
 pygmentsCodeFences: true

@@ -1,8 +1,9 @@
-baseURL = "http://47.97.19.70/"
-title = "Data Engineering Hub"
+baseURL = "http://data-Engineering-hub.tech/"
 theme = "hugo-geekdoc"
 
+
 [params]
+    baseurl = "http://data-Engineering-hub.tech/"
     geekdocLogo = "logo.png"
 
     # (Optional, default false) Collapse all menu entries, can not be overwritten

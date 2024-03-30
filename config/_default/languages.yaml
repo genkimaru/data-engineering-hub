@@ -2,4 +2,11 @@
 en:
   languageName: "English"
   contentDir: "content/en"
+  title: "Data Engineering Hub"
+  weight: 1
+
+cn:
+  languageName: "中文简体"
+  contentDir: "content/cn"
+  title: 数据工程中心
   weight: 10

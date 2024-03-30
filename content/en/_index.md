@@ -10,22 +10,21 @@ weight: 0
 
 
 ***Welcome!***
- This is good place of learnig data related knowledges for data engineers, for whom are willing to learn and share, you can contribute your knowledges and ideas through the GitHub
-⭐ Star our [GitHub](https://github.com/genkimaru/data-engineering-hub) repo and 🗣️ [Share the wiki](https://www.linkedin.com/shareArticle?mini=true&url=https://data-engineering-hub.tech)
+It's a great place for data engineers who want to learn and share their knowledge and ideas through GitHub
+⭐ Our [GitHub](https://github.com/genkimaru/data-engineering-hub) repository and 🗣️ [shared wiki](https://www.linkedin.com/shareArticle?mini=true&url=https://data-engineering-hub.tech) Star
 
-
-### ***Let's get started***
+### ***Let's get started~***
 
 {{< columns >}}
-### [Databases](./hub/Databases/index.html)
+### [Database](./hub/Databases/index.html)
 
-Stay focused on exploring the content and don't get overwhelmed by a complex design.
+There are various types of databases, such as relational databases, key-value pair databases, document databases, wide column databases, graph databases, analytical databases, etc.
 
 <--->
 
 ### [Data Ingestion](./hub/Data-Ingestion/index.html)
 
-The theme is powered by less than 1 MB and looks impressive on mobile devices as well as on a regular Desktop.
+Data ingestion, or data integration, is the first step of a data platform, and both open source and cloud service providers provide data integration services for different situations.
 
 <--->
 
@@ -38,39 +37,38 @@ The look and feel can be easily customized by CSS custom properties (variables),
 {{< columns >}}
 ### [Data Compute](./hub/Data-Compute/index.html)
 
-Stay focused on exploring the content and don't get overwhelmed by a complex design.
+Data computing corresponds to various ETL operations in data warehouse construction, and the focus here is on open source Spark, Flink, and common cloud data computing services.
 
 <--->
 
 ### [Data Analytics](./hub/Data-Analytics/index.html)
 
-The theme is powered by less than 1 MB and looks impressive on mobile devices as well as on a regular Desktop.
+Data analysis is closely related to the business value of the data platform, and the focus here is on the relationship between data analysis and business value, and how to use business value to drive the construction of the entire data platform.
 
 <--->
 
 ### [Data Visualization](./hub/Data-Visualization/index.html)
 
-The look and feel can be easily customized by CSS custom properties (variables), features can be adjusted by Hugo parameters.
+The data ultimately needs to be presented to the user in a certain format, such as line charts, pie charts, funnel charts, etc., here are several common open-source data visualization tools and business suites.
 
 {{< /columns >}}
 
 {{< columns >}}
-### [Data Governance](./hub/Data-Governance/index.html)
+### [Data Government](./hub/Data-Governance/index.html)
 
-Stay focused on exploring the content and don't get overwhelmed by a complex design.
+Data governance is a comprehensive field that involves many fragmented aspects, such as data quality management, metadata management, data compliance management, data permission control, data lineage, etc., which are introduced in this chapter.
 
 <--->
 
 ### [Data Science](./hub/Data-Science/index.html)
 
-The theme is powered by less than 1 MB and looks impressive on mobile devices as well as on a regular Desktop.
+Data science is a more ambitious topic, and here is just a discussion of common machine learning algorithms and their application scenarios, natural language processing technology, computer vision technology, etc.
 
 <--->
 
 ### [Data on Cloud](./hub/Data-on-Cloud/index.html)
 
-The look and feel can be easily customized by CSS custom properties (variables), features can be adjusted by Hugo parameters.
-
+This chapter introduces how to build data platforms in the cloud from cloud vendors such as AWS and Alibaba Cloud, as well as the related services involved.
 {{< /columns >}}
 
 
