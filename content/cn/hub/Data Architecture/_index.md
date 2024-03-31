@@ -1,6 +1,7 @@
 ---
-title: 数据集成
-weight: 5
+title: 数据架构
+weight: 12
 geekdocCollapseSection: true
 ---
+
 {{< toc-tree >}}

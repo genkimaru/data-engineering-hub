@@ -9,17 +9,21 @@ weight: 0
 
 
 
-***欢迎!***
- 对于愿意学习和分享的数据工程师来说，这里是学习数据相关知识的好地方，可以通过 GitHub 贡献自己的知识和想法
-⭐ 我们的 [GitHub](https://github.com/genkimaru/data-engineering-hub) 存储库和 🗣️ [共享 wiki](https://www.linkedin.com/shareArticle?mini=true&url=https://data-engineering-hub.tech) 加注星标
+### ***欢迎你!***  
+ 对于愿意学习和分享的数据工程师来说，这里是学习数据相关知识的好地方。
+ 在这里可以一站式学习到数据工程师应该要掌握的最重要的知识集合，其中包括数据存储，数据处理，数据仓库设计，数据分析，数据可视化，数据治理等等，同时希望在每个知识板块都会进行简单的案例教学，巩固相关概念的掌握，也会及时纳入行业最新的发展趋势，使得这个知识库能够及时反映行业的发展现状。  
+
+ 如果喜欢的话，也可以通过 GitHub 贡献自己的知识和想法哦。
+⭐ [GitHub地址](https://github.com/genkimaru/data-engineering-hub) 
 
 
-### ***我们开始学习吧***
+
+
 
 {{< columns >}}
-### [数据库](./hub/Databases/index.html)
+### [基础知识](./hub/Basic/index.html)
 
-这里有各种类型的数据库，比如关系型数据库，键值对数据库，文档型数据库，宽列型数据库，图数据库，分析型数据库等。
+介绍了与数据工程相关的常用编程语言和基本概念。
 
 <--->
 
@@ -31,44 +35,56 @@ weight: 0
 
 ### [数据存储](./hub/Data-Storage/index.html)
 
-数据存储，从广义上讲，包括文件存储、数据库存储、对象存储等，这里的重点是分布式文件存储和对象存储。
+介绍了关系型数据库，NOSQL数据库， 分布式文件系统和对象存储系统,其中数据库是该领域的重点。
 
 {{< /columns >}}
 
 {{< columns >}}
-### [数据计算](./hub/Data-Compute/index.html)
+### [数据处理](./hub/Data-Process/index.html)
 
-数据计算对应到建设数据仓库中的各种ETL操作，这里重点讨论开源的Spark， Flink和常见的云端数据计算服务。
+数据计算对应到建设数据仓库中的各种ETL操作，这里重点介绍开源的Spark， Flink和常见的云端数据计算服务。
 
 <--->
+
+### [数据仓库](./hub/Data-Warehouse/index.html)
+
+构建一个数据平台的首要目的是构建数据仓库，这里重点介绍数据仓库的数据建模，分层设计的相关概念，同时也会引出数据湖，数仓一体等发展趋势。
+
+<--->
+
+### [工作管道](./hub/Data-Pipeline/index.html)
+
+{{< /columns >}}
+
+{{< columns >}}
 
 ### [数据分析](./hub/Data-Analytics/index.html)
 
 数据分析是和数据平台的商业价值息息相关，此处重点关注的是数据分析和商业价值的关系，如何利用商业价值驱动整个数据平台的建设。
 
 <--->
+### [数据架构](./hub/Data-Pipeline/index.html)
 
-### [数据可视化](./hub/Data-Visualization/index.html)
+<--->
 
-数据最终需要通过某种格式呈现给用户，比如折线图，饼状图，漏斗图等，这里来看看几种常见的开源数据可视化的工具和商业套件。
-
-{{< /columns >}}
-
-{{< columns >}}
 ### [数据治理](./hub/Data-Governance/index.html)
 
 数据治理是个综合的领域，涉及到很多零碎的环节，比如数据质量管理，元数据管理，数据合规性管理，数据权限控制，数据血缘等领域，这些一并放在这个章节中介绍。
 
-<--->
+{{< /columns >}}
 
-### [数据科学](./hub/Data-Science/index.html)
 
-数据科学是个更宏达的课题，这里只是讨论下常见的机器学习算法及其应用场景、自然语言处理技术、计算机视觉技术等。
-<--->
-
+{{< columns >}}
 ### [数据上云](./hub/Data-on-Cloud/index.html)
 
 数据上云是个确切无疑的趋势，本章介绍如何在AWS、阿里云等云厂商在云端建设数据平台的，以及所涉及到的相关服务。
+
+<--->
+
+
+
+<--->
+
 
 {{< /columns >}}
 

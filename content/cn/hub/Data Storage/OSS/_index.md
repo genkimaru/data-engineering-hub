@@ -1,6 +1,6 @@
 ---
-title: 数据集成
-weight: 5
+title: 对象存储
+weight: 3
 geekdocCollapseSection: true
 ---
 {{< toc-tree >}}

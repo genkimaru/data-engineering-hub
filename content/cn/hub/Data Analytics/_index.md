@@ -1,6 +1,6 @@
 ---
-title: Data Analytics
-weight: 0
+title: 数据分析
+weight: 6
 geekdocCollapseSection: true
 ---
 
