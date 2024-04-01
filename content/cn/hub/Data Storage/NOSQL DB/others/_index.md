@@ -1,4 +1,4 @@
 ---
-title: others
+title: 其他
 weight: 78
 ---

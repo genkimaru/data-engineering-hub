@@ -1,6 +1,5 @@
 ---
-title: SQL数据库
+title: 事务性数据库
 weight: 0
 geekdocCollapseSection: true
 ---
-{{< toc-tree >}}
