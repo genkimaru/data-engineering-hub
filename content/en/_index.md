@@ -1,6 +1,6 @@
 ---
 title: Data Engineering Hub
-geekdocNav: true
+geekdocNav: false
 geekdocAlign: left
 geekdocAnchor: false
 geekdocCollapseSection: true

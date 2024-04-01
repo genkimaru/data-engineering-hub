@@ -1,9 +1,9 @@
 ---
 title: 数据工程知识库
-geekdocNav: true
+geekdocNav: false
 geekdocAlign: left
 geekdocAnchor: false
-geekdocCollapseSection: true
+geekdocCollapseSection: false
 weight: 0
 ---
 
@@ -57,7 +57,7 @@ weight: 0
 
 {{< columns >}}
 
-### [数据分析](./hub/Data-Analytics/index.html)
+### [数据可视化](./hub/Data-Visualization/index.html)
 
 数据分析是和数据平台的商业价值息息相关，此处重点关注的是数据分析和商业价值的关系，如何利用商业价值驱动整个数据平台的建设。
 
@@ -74,12 +74,14 @@ weight: 0
 
 
 {{< columns >}}
+### [数据挖掘](./hub/Data-Mining/index.html)
+
+数据挖掘，介绍几种常见的机器学习算法，比如聚类，分类，回归，模式匹配等。
+
+<--->
 ### [数据上云](./hub/Data-on-Cloud/index.html)
 
 数据上云是个确切无疑的趋势，本章介绍如何在AWS、阿里云等云厂商在云端建设数据平台的，以及所涉及到的相关服务。
-
-<--->
-
 
 
 <--->

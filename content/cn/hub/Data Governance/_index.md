@@ -1,6 +1,6 @@
 ---
 title: 数据治理
-weight: 8
+weight: 9
 geekdocCollapseSection: true
 ---
 {{< toc-tree >}}
