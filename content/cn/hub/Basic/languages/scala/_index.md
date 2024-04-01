@@ -1,6 +1,7 @@
 ---
 title: Scala
-weight: 4
+weight: 0
+geekdocCollapseSection: true
 ---
 
 在大数据领域，Scala也有许多常用的框架和库，例如：
@@ -21,3 +22,4 @@ Scala最常用的语言特性包括：
 - 模式匹配：Scala提供了强大的模式匹配功能，可以方便地处理复杂的数据结构。
 - 类型推断：Scala具有类型推断功能，可以减少代码中的类型声明，提高代码的简洁性和可读性。
 
+{{< toc-tree >}}

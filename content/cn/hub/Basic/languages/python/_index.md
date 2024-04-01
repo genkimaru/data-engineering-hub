@@ -1,6 +1,7 @@
 ---
 title: Python
-weight: 2
+weight: 0
+geekdocCollapseSection: true
 ---
 
 
@@ -21,4 +22,4 @@ Python最常用的语言特性包括：
 - 动态类型：Python是一种动态类型语言，不需要显式声明变量的类型。
 - 高级数据结构：Python提供了丰富的高级数据结构，如列表、字典和集合，方便进行数据处理和操作。
 - 面向对象：Python是一种面向对象的语言，支持面向对象编程的特性，如封装、继承和多态。
-
+{{< toc-tree >}}

@@ -1,9 +1,8 @@
 ---
 title: SQL
-weight: 1
+weight: 0
+geekdocCollapseSection: true
 ---
-
-
 SQL（Structured Query Language）是用于管理关系型数据库的标准化语言。它的发展历史可以简要总结如下：
 
 1. **1970s**：SQL最早由IBM的Edgar Codd提出，作为关系数据库管理系统（RDBMS）的查询语言。
@@ -20,3 +19,5 @@ SQL能够长盛不衰的原因在于：
 4. **广泛应用**：SQL被广泛应用于各种类型的应用程序和系统中，如企业管理系统、数据分析、报表生成等领域。
 5. **持续发展**：SQL标准不断更新和完善，不断适应新的数据处理需求和技术发展趋势，保持了其长盛不衰的地位。
 
+
+{{< toc-tree >}}

@@ -1,5 +1,5 @@
 ---
-title: 数据质量
+title: 数据合规
 weight: 0
 geekdocCollapseSection: true
 ---

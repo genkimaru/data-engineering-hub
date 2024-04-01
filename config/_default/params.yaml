@@ -1,10 +1,10 @@
 ---
 description: >
-  Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme
-  and may not fit the requirements of complex projects. If a more feature-complete theme is required
-  there are a lot of good alternatives out there.
+  Data Engineering Hub is a knowlodge library of data engineering field, 
+  for data engineers to learn, refer and share.
+  数据工程知识库是一个有关于数据工程的知识库，方便所有的数据工程师学习参考和分享。
 images:
-  - "socialmedia2.png"
+  - "logo.png"
 
 geekdocToC: 3
 geekdocTagsToMenu: true
