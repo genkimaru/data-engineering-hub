@@ -685,14 +685,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
           </svg>
         </span>
 
-        <span class="gdoc-menu-header__home">
-          <a href="http://localhost:1313/" class="gdoc-header__link">
-            <svg class="gdoc-icon gdoc_home">
-              <title></title>
-              <use xlink:href="#gdoc_home"></use>
-            </svg>
-          </a>
-        </span>
+        
 
         
   <span class="gdoc-language">
@@ -811,8 +804,8 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
         <em><strong>欢迎来到数据工程知识库</strong></em>
     </h3>
 </div>
-<p>在这里，你可以一站式学习到数据工程师需要掌握的最重要的知识集合，其中包括数据存储，数据处理，数据仓库设计，数据分析，数据可视化，数据治理等。</p>
-<p>如果喜欢的话，也可以通过 GitHub 贡献自己的知识哦。
+<p>在这里，你可以一站式学习到数据工程师需要掌握的知识集合，从数据流的角度来书，数据从被创造出来一直到产生价值，其中包括数据摄取，数据存储，数据处理，数据可视化等环节，而在数据存储环节则需要利用到数据仓库设计，在数据摄取到计算环节涉及到数据管道和数据治理，通过数据挖掘可以释放数据的商业价值，所以数据工程师的知识图谱可以通过数据流和方法论这两条主线来构建。
+如果喜欢的话，也可以通过 GitHub 贡献自己的知识哦。
 ⭐ <a
   class="gdoc-markdown__link"
   href="https://github.com/genkimaru/data-engineering-hub"
@@ -823,11 +816,11 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
 <div class="gdoc-columns gdoc-columns--regular flex flex-gap flex-mobile-column">
     <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
       <div class="gdoc-page__anchorwrap">
-    <h3 id="基础知识hubbasicindexhtml"
+    <h3 id="基础知识hubfundamentalsindexhtml"
     >
         <a
   class="gdoc-markdown__link"
-  href="./hub/Basic/index.html"
+  href="./hub/Fundamentals/index.html"
 >基础知识</a>
     </h3>
 </div>
@@ -873,34 +866,6 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
 <p>数据计算对应到建设数据仓库中的各种ETL操作，这里重点介绍开源的Spark， Flink和常见的云端数据计算服务。</p></div>
     <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
       <div class="gdoc-page__anchorwrap">
-    <h3 id="数据仓库hubdata-warehouseindexhtml"
-    >
-        <a
-  class="gdoc-markdown__link"
-  href="./hub/Data-Warehouse/index.html"
->数据仓库</a>
-    </h3>
-</div>
-<p>构建一个数据平台的首要目的是构建数据仓库，这里重点介绍数据仓库的数据建模，分层设计的相关概念，同时也会引出数据湖，数仓一体等发展趋势。</p></div>
-    <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
-      <div class="gdoc-page__anchorwrap">
-    <h3 id="工作管道hubdata-pipelineindexhtml"
-    >
-        <a
-  class="gdoc-markdown__link"
-  href="./hub/Data-Pipeline/index.html"
->工作管道</a>
-    </h3>
-</div>
-</div>
-</div>
-
-
-
-
-<div class="gdoc-columns gdoc-columns--regular flex flex-gap flex-mobile-column">
-    <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
-      <div class="gdoc-page__anchorwrap">
     <h3 id="数据可视化hubdata-visualizationindexhtml"
     >
         <a
@@ -912,15 +877,32 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
 <p>数据分析是和数据平台的商业价值息息相关，此处重点关注的是数据分析和商业价值的关系，如何利用商业价值驱动整个数据平台的建设。</p></div>
     <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
       <div class="gdoc-page__anchorwrap">
-    <h3 id="数据架构hubdata-pipelineindexhtml"
+    <h3 id="数据管道hubdata-pipelineindexhtml"
     >
         <a
   class="gdoc-markdown__link"
   href="./hub/Data-Pipeline/index.html"
->数据架构</a>
+>数据管道</a>
     </h3>
 </div>
+<p>数据管道是一个工作流程（Workflow），代表了不同的数据工程流程和工具如何协同工作，以实现将数据从源传输到目标存储系统。</p></div>
 </div>
+
+
+
+
+<div class="gdoc-columns gdoc-columns--regular flex flex-gap flex-mobile-column">
+    <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
+      <div class="gdoc-page__anchorwrap">
+    <h3 id="数据仓库hubdata-warehouseindexhtml"
+    >
+        <a
+  class="gdoc-markdown__link"
+  href="./hub/Data-Warehouse/index.html"
+>数据仓库</a>
+    </h3>
+</div>
+<p>数据仓库是一个战略性的数据集合，用于支持企业各级决策制定过程。它是一个单一的数据存储，专为分析性报告和决策支持而创建。</p></div>
     <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
       <div class="gdoc-page__anchorwrap">
     <h3 id="数据治理hubdata-governanceindexhtml"
@@ -931,7 +913,18 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
 >数据治理</a>
     </h3>
 </div>
-<p>数据治理是个综合的领域，涉及到很多零碎的环节，比如数据质量管理，元数据管理，数据合规性管理，数据权限控制，数据血缘等领域，这些一并放在这个章节中介绍。</p></div>
+<p>数据治理是个综合的领域，包含<strong>数据质量管理</strong>，<strong>元数据管理</strong>，<strong>数据合规性管理</strong>，<strong>数据安全管理</strong>，<strong>数据权限控制</strong>，<strong>数据血缘</strong>，<strong>数据标准</strong>等。</p></div>
+    <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
+      <div class="gdoc-page__anchorwrap">
+    <h3 id="数据架构hubdata-architectureindexhtml"
+    >
+        <a
+  class="gdoc-markdown__link"
+  href="./hub/Data-Architecture/index.html"
+>数据架构</a>
+    </h3>
+</div>
+<p>数据架构关注以下领域，<strong>系统的高性能</strong>，<strong>系统的高可用性</strong>，<strong>系统处理及时性</strong>，<strong>数据的可回溯性</strong>，<strong>系统的可观测性</strong>等。</p></div>
 </div>
 
 
@@ -959,7 +952,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
 >数据上云</a>
     </h3>
 </div>
-<p>数据上云是个确切无疑的趋势，本章介绍如何在AWS、阿里云等云厂商在云端建设数据平台的，以及所涉及到的相关服务。</p></div>
+<p>本章介绍如何在AWS、阿里云等公有云上建设云端数据平台的，重点介绍在云端数据平台上所涉及到的相关服务。</p></div>
     <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
       </div>
 </div>
