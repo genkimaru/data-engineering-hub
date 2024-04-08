@@ -1,7 +1,7 @@
 +++
 title = 'Prometheus和Grafana的集成'
 date = 2024-04-01T10:03:16+08:00
-weight = 100
+weight = 6
 +++
 Grafana 和 Prometheus 是常用的监控工具，它们可以通过以下步骤进行集成：
 

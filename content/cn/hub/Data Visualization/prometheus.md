@@ -1,7 +1,7 @@
 +++
 title = 'Prometheus'
 date = 2024-04-01T10:02:33+08:00
-weight = 100
+weight = 5
 +++
 
 Prometheus 收集和存储数据的工作流程如下：

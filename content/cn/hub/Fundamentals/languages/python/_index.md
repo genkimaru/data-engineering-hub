@@ -1,6 +1,6 @@
 ---
 title: Python
-weight: 0
+weight: 1
 geekdocCollapseSection: true
 ---
 

@@ -1,4 +1,4 @@
 ---
 title: Kibana 
-weight: 10
+weight: 3
 ---

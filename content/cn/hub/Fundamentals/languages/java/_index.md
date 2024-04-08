@@ -1,6 +1,6 @@
 ---
 title: Java
-weight: 0
+weight: 2
 geekdocCollapseSection: true
 ---
 Java语言在大数据领域有着广泛的应用，由Java语言开发的常用框架包括：

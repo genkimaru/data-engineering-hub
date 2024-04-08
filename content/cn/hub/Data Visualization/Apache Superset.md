@@ -1,17 +1,23 @@
 ---
 title: Apache Superset
-weight: 47
+weight: 7
 ---
 
-[Apache Superset](https://superset.apache.org/) is an open-source software application for data exploration and data visualization able to handle data at petabyte scale.
+Apache Superset是一款现代化、企业级的商业智能Web应用程序。它快速、轻量级、直观，并且拥有许多选项，使得用户可以轻松地探索和可视化他们的数据，从简单的饼图到高度详细的deck.gl地理空间图。
 
-## Apache Superset Official Documentation
+### Superset 提供：
 
-https://superset.apache.org/docs/intro
+- 直观的界面，可视化数据集和创建交互式仪表板
+- 各种漂亮的可视化效果，展示您的数据
+- 无需编写代码的可视化构建器，提取和展示数据集
+- 世界一流的 SQL IDE，用于准备数据进行可视化，包括丰富的元数据浏览器
+- 轻量级的语义层，赋予数据分析师快速定义自定义维度和度量的能力
+- 对大多数支持 SQL 的数据库的开箱即用支持
+- 无缝、内存中的异步缓存和查询
+- 可扩展的安全模型，允许配置非常复杂的规则，确定谁可以访问哪些产品功能和数据集
+- 与主要身份验证后端集成（数据库、OpenID、LDAP、OAuth、REMOTE_USER 等）
+- 添加自定义可视化插件的能力
+- 用于程序化定制的 API
+- 从头开始设计的云原生架构，可实现规模化
 
-## Apache Superset Advantages
-#placeholder/description 
-
-## Apache Superset Disadvantages
-#placeholder/description 
 

@@ -1,4 +1,4 @@
 ---
 title: Qlikview 
-weight: 10
+weight: 2
 ---

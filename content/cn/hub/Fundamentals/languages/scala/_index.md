@@ -1,6 +1,6 @@
 ---
 title: Scala
-weight: 0
+weight: 3
 geekdocCollapseSection: true
 ---
 

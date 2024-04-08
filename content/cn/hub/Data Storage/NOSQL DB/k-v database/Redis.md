@@ -2,13 +2,27 @@
 title: Redis
 weight: 81
 ---
-![[Assets/redis_logo.png|100]]
 
-Popular in-memory data platform used as a cache, message broker, and database that can be deployed on-premises, across clouds, and hybrid environments.
 
-## Redis Official Documentation
+### Redis 
+Redis提供诸如字符串、哈希、列表、集合、带有范围查询的有序集合、位图、HyperLogLogs、地理空间索引和流等数据结构。Redis具有内置的复制、Lua脚本、LRU驱逐、事务以及不同级别的磁盘持久性，并通过Redis Sentinel提供高可用性，并通过Redis Cluster实现自动分区。
+### Redis支持的数据结构
+https://redis.io/docs/data-types/
 
-https://redis.io/docs/
 
-## [Redis Recent Posts](https://www.reddit.com/r/dataengineering/search/?q=Redis&restrict_sr=1&sr_nsfw=)
+### redis的失效策略
+1. **定时失效（TTL）**：当为一个键设置了过期时间（TTL），Redis会自动在键过期后将其删除。这是最常见的失效策略，适用于需要在固定时间后使键失效的场景。
+
+2. **惰性删除**：在获取键时，Redis会检查该键是否过期，如果过期则删除。这种策略可能会导致过期键在一段时间内仍然存在于内存中，直到被访问时才会被删除。
+
+3. **定期删除**：Redis会定期随机检查一些过期键，并删除其中已过期的键。这种策略可以在不频繁检查所有过期键的情况下，保证过期键的及时删除。
+
+4. **持久性失效**：Redis在写入一个键时，会检查该键是否过期，如果过期则拒绝写入。这种策略可以确保写入的数据不会立即过期。
+
+5. **主动清理**：通过配置参数`maxmemory-policy`，可以设置Redis在达到内存上限时的清理策略，如LRU（最近最少使用）、LFU（最少使用频率）等，以释放内存空间。
+
+
+### redis 
+
+
 

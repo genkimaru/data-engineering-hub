@@ -1,8 +1,6 @@
-+++
-title = 'Apache_airflow'
-date = 2024-04-01T09:02:28+08:00
-weight = 100
-+++
+---
+title: 'Apache Airflow'
+---
 
 Apache Airflow™ 是一个开源平台，用于开发、调度和监控面向批处理的工作流。Airflow 的可扩展 Python 框架使您能够构建工作流与几乎任何技术连接。Web 界面有助于管理工作流的状态。Airflow 可以通过多种方式进行部署，从笔记本电脑上的单个进程到分布式设置，甚至支持最大的工作流程。
 
